@@ -18,6 +18,7 @@ Installation
 16. Now it should be succesfully installed. You can close the installer.
 
 Issues
+
 If you find any bugs please report them in "Issues" tab on this page.
 
 I know that it sometimes does not work, tht's why i left the browser windows visible so you can easly close it.
