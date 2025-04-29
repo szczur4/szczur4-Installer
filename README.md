@@ -16,6 +16,7 @@ Installation
 14. Press "Finish".
 15. Wait.
 16. Now it should be succesfully installed. You can close the installer.
+
 Issues
 If you find any bugs please report them in "Issues" tab on this page.
 
