@@ -1,7 +1,7 @@
 ### Lingos Bot
 Installation
 1. Make sure you have java 24 installed. You can download it here [https://www.oracle.com/java/technologies/downloads/#jdk24-windows](https://www.oracle.com/java/technologies/downloads/#jdk24-windows).
-2. Download the installer form releases tab.
+2. Download the installer from releases tab.
 3. Run the installer.
 4. Select "Lingos Bot" from the dropdown menu.
 5. Press "Install".
